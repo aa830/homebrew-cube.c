@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -lm
 
 # Target executable
-TARGET = render
+TARGET = cube
 
 # Source files
 SRCS = cube.c
